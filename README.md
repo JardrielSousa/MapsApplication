@@ -19,6 +19,7 @@ maps api https://cloud.google.com/maps-platform/?hl=pt-br
 0.1 Initial Release - was an simple map integration of maps api
 
 ## Authors
-Jardriel Sousa
-https://github.com/JardrielSousa
+## Jardriel Sousa
+- github  : https://github.com/JardrielSousa
+- linkdin : https://www.linkedin.com/in/jardriel-sousa-9a993a107/
 
